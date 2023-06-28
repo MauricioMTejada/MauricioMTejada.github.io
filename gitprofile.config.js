@@ -12,20 +12,20 @@ const config = {
   },
   social: {
     linkedin: 'mauricio-tejada-495aa4a8',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'mauriciotejada14@gmail.com',
   },
   resume: {
     fileUrl:
