@@ -84,24 +84,17 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Ingenia',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Compra y vende cursos digitales',
+      imageUrl: 'https://www.dropbox.com/scl/fi/smumrhdmm65cj6gsth8hv/2023_07_03_13_53_41_Ingenia._Compra_y_Vende_cursos_digitales_1360p_60fps_VP9_160kbit_Opus_.webm_R.jpg?rlkey=zp5480gbqxnfotf03tcd7u376&dl=0',
+      link: 'https://estasingenia.com',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'mauriciomtejada', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
