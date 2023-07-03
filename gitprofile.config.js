@@ -87,7 +87,7 @@ const config = {
       title: 'Ingenia',
       description:
         'Compra y vende cursos digitales',
-      imageUrl: 'https://www.dropbox.com/scl/fi/smumrhdmm65cj6gsth8hv/2023_07_03_13_53_41_Ingenia._Compra_y_Vende_cursos_digitales_1360p_60fps_VP9_160kbit_Opus_.webm_R.jpg?rlkey=zp5480gbqxnfotf03tcd7u376&dl=0',
+      imageUrl: 'https://ibb.co/fdw9Vhw',
       link: 'https://estasingenia.com',
     },
   ],
