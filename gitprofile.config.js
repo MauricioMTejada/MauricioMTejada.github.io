@@ -88,7 +88,7 @@ const config = {
       description:
         'Compra y vende cursos digitales',
       imageUrl: 'https://i.ibb.co/PGHMs7H/2023-07-03-13-53-41-Ingenia-Compra-y-Vende-cursos-digitales-1360p-60fps-VP9-160kbit-Opus-webm-R.jpg',
-      link: 'https://estasingenia.com',
+      link: 'https://client-six-weld.vercel.app',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
