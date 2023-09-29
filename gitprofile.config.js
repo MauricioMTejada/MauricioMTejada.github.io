@@ -90,6 +90,13 @@ const config = {
       imageUrl: 'https://i.ibb.co/PGHMs7H/2023-07-03-13-53-41-Ingenia-Compra-y-Vende-cursos-digitales-1360p-60fps-VP9-160kbit-Opus-webm-R.jpg',
       link: 'https://client-six-weld.vercel.app',
     },
+    {
+      title: 'Tarjeta-QR',
+      description:
+        'Ejemplo de tarjeta con QR',
+      imageUrl: 'https://i.ibb.co/8s7YgCF/imagen-2023-09-29-124242229.png',
+      link: 'https://tarjeta-reactform-reactqr.vercel.app',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
