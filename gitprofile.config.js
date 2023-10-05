@@ -87,7 +87,7 @@ const config = {
       title: 'Timbring',
       description:
         'Servicio de entrega para Mercadolibre',
-      imageUrl: 'https://i.ibb.co/K71R5b5/logo.jpg',
+      imageUrl: 'https://i.ibb.co/R679mJS/logo.jpg',
       link: 'https://www.timbring.com',
     },
     {
