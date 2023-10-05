@@ -98,6 +98,13 @@ const config = {
       link: 'https://client-six-weld.vercel.app',
     },
     {
+      title: 'PI Countries',
+      description:
+        'Proyecto Individual académico',
+      imageUrl: 'https://i.ibb.co/bWVtFtd/45-455789-globe-free-icon-world-icon-png.png',
+      link: 'https://pi-countries-frontend-seven.vercel.app',
+    },
+    {
       title: 'Tarjeta-QR',
       description:
         'Ejemplo de tarjeta con QR',
