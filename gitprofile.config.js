@@ -84,6 +84,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Timbring',
+      description:
+        'Servicio de entrega para Mercadolibre',
+      imageUrl: 'https://i.ibb.co/Hh5CMYd/logo.png',
+      link: 'https://www.timbring.com',
+    },
+    {
       title: 'Ingenia',
       description:
         'Compra y vende cursos digitales',
