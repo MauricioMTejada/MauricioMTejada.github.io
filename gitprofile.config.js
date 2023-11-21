@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1B0esm0leyea_NZUS683lM_aMV27lgy50/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1_aFNBLHk8R6jgaRl9rmzIrgwp3xbT3S5/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
   'JavaScript',
