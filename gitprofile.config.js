@@ -36,6 +36,8 @@ const config = {
   'Html',
   'Css',
   'NodeJS',
+  'TypeScript',
+  'Next.JS',
   'React',
   'Material UI',
   'Redux',
