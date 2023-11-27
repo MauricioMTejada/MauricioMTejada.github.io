@@ -113,6 +113,13 @@ const config = {
       imageUrl: 'https://i.ibb.co/8s7YgCF/imagen-2023-09-29-124242229.png',
       link: 'https://tarjeta-reactform-reactqr.vercel.app',
     },
+    {
+      title: 'Proyecto en Next.JS: Pokedesk',
+      description:
+        'Tecnologías: TypeScript | Next.JS | NextUI | Tailwind CSS',
+      imageUrl: 'https://i.ibb.co/1ry2vxG/bulbasaur.png',
+      link: 'https://next-pokedesk-static.vercel.app',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
